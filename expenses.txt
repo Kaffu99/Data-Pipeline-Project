@@ -1,0 +1,267 @@
+1237,Laptop Sleeve,700
+1205,Stylus Pen,750
+1220,Portable SSD,7200
+1131,Cable Organizer,N/A
+1097,,300
+1168,Portable Monitor,-9800
+1027,Portable SSD,-7200
+1163,Webcam,3200
+1106,Power Bank,1100
+1206,Keyboard,not_a_number
+1024,Ring Light,1700
+1103,USB Hub,400
+1127,Cooling Pad,1600
+1247,Audio Splitter,120
+1170,Surge Protector,1300
+1019,Bluetooth Adapter,500
+1095,,9800
+1111,Headphones,1800
+1204,  ,700
+1199,Phone Stand,-300
+1154,USB Hub,400
+1186,Portable SSD,
+1001,Smart Plug,
+1046,Graphics Tablet,-4800
+1189,Gaming Mouse,unknown
+1217,Speakers,2200
+1066,Microphone,2500
+1162,Wireless Charger,1400
+1129,Desk Fan,1250
+1089,Wireless Keyboard,1350
+1242,Speakers,abc
+1226,Portable SSD,7200
+1169,Smart Plug,950
+1118,Laptop Stand,1200
+1012,Replacement Charger,2100
+1093,Laptop Dock,5500
+1094,Power Bank,-1100
+1208,Monitor,
+1124,Wi-Fi Adapter,-900
+1025,Card Reader,280
+1147,Graphics Tablet,4800.99
+1037,Mouse Pad,250
+1227,Laptop Riser,1450
+1142,,850
+1029,Phone Stand,300
+1174,Wireless Mouse,
+1088,USB Hub,400
+1083,Wireless Keyboard,1350
+1248,Cable Organizer,180
+1215,Stylus Pen,750
+1038,Ethernet Cable,220
+1225,Desk Lamp,-950
+1245,Laptop Stand,1200
+1030,Cooling Pad,1600
+1209,   Keyboard   ,850
+1050,Gaming Mouse,1900
+1151,,1200
+1052,Gaming Controller,2400
+1195,Ethernet Cable,abc
+1240,Wireless Keyboard,1350.99
+1042,Phone Stand,300
+1034,Desk Fan,1250
+1068,USB Microphone,2900
+1023,Laptop Sleeve,700
+1079,Wireless Charger,1400.99
+1135,,1800
+1059,Phone Tripod,850
+1149,Smart Bulb,500
+1056,Microphone,unknown
+1143,USB Cable,150
+,No ID,250
+1054,Desk Lamp,950
+1180,,750
+1044,Laptop Stand,-1200
+1159,Audio Splitter,120
+1009,Screen Cleaner,-200
+1109,Bluetooth Adapter,500
+1012,Duplicate Keyboard,999
+1201,Extra Field Product,500,unexpected
+1045,Laptop Battery,3600
+1184,Monitor,12500
+1235,Surge Protector,1300
+1190,Mouse Pad,250
+1201,Portable Monitor,9800
+1204,Surge Protector,1300
+1156,Laptop Stand,1200
+1126,Mouse Pad,250
+1081,USB Cable,
+1076,Phone Tripod,850
+1010,Smart Bulb,500
+1167,Phone Tripod,-850
+1051,HDMI Cable,350
+1049,HDMI Cable,
+1236,Gaming Mouse,abc
+1212,Laptop Battery,-3600
+1102,Ethernet Cable,220
+1004,Webcam,3200
+1075,Laptop Dock,5500
+1133,Replacement Charger,2100
+1231,USB Hub,400
+1037,Duplicate Mouse,499
+1165,Webcam,3200
+1241,Wireless Charger,-1400
+1092,Smart Bulb,500
+1096,Screen Cleaner,200.99
+1232,Replacement Charger,2100
+1078,Card Reader,280
+1250,Keyboard,850
+1048,Smart Bulb,500
+1202,Laptop Stand,1200
+1160,Smart Bulb,500
+1132,USB Hub,400
+1203,Ethernet Cable,220
+1028,Laptop Sleeve,700
+1073,Speakers,unknown
+1015,Portable Monitor,9800
+1243,Power Bank,1100
+1211,Surge Protector,
+1222,Surge Protector,1300
+1031,Smart Plug,950
+1214,Keyboard,850
+1080,Power Bank,1100
+1003,Phone Stand,
+1175,HDMI Cable,ten dollars
+1205,USB Cable,
+1032,Mouse Pad,250
+1202,Missing Field
+1166,Mechanical Keyboard,1800
+1011,Desk Mat,-650
+1018,Cooling Pad,
+1058,Laptop Stand,1200
+1090,Speakers,2200
+1014,Mouse Pad,250
+1005,Stylus Pen,
+1121,Keyboard,850
+1150,Duplicate Webcam,2999
+1065,Wireless Mouse,780
+1176,Screen Cleaner,200
+1072,Smart Plug,950
+1146,USB Hub,400
+1224,Desk Fan,1250
+1173,,12500
+1117,Ethernet Cable,220
+1198,USB Flash Drive,600
+1084,Desk Lamp,
+1182,Mechanical Keyboard,1800
+1228,External SSD,6500
+1013,Keyboard,850
+1047,Cable Organizer,180
+1105,Duplicate USB Hub,350
+1035,Smart Bulb,
+1239,USB Cable,150
+1022,Cooling Pad,
+1158,External HDD,4200
+1145,Graphics Tablet,4800
+1152,Ring Light,1700
+1101,Laptop Stand,1200
+1007,USB Cable,-150
+1137,Laptop Dock,abc
+1033,USB Hub,400
+1192,Mouse,N/A
+1043,Graphics Tablet,4800
+1104,USB Microphone,2900
+1087,Phone Tripod,850
+1177,,200
+1008,Surge Protector,1300
+1088,Duplicate Monitor,11999
+1112,Smart Bulb,
+1210,Graphics Tablet,4800
+1172,Gaming Controller,2400
+1219,Portable Monitor,9800
+1057,Laptop Riser,1450
+1155,Desk Lamp,950
+1140,Power Bank,1100
+1138,,6500
+1188,Desk Mat,650
+1187,Wireless Mouse,780
+1077,Mouse,
+1207,Monitor,-1500
+1002,Gaming Mouse,1900
+1123,Mouse Pad,250
+1098,Audio Splitter,120
+1148,Webcam Cover,
+1006,,2400
+1179,Desk Fan,1250
+1150,Graphics Tablet,4800
+1100,Monitor,12500
+1108,Webcam,3200
+1053,Webcam Cover,100
+1016,USB Hub,400
+1196,Cooling Pad,1600
+1120,Smart Bulb,500
+1207,HDMI Cable,N/A
+1085,Wi-Fi Adapter,900
+1105,Laptop Battery,3600
+1107,Desk Mat,-650
+1017,Portable Monitor,
+1210,   ,
+1181,Card Reader,280
+1040,Phone Stand,300
+1178,Laptop Stand,1200
+1099,,300
+1060,Laptop Dock,5500.99
+1039,Smart Plug,950
+1036,Smart Plug,unknown
+1021,Stylus Pen,
+1139,Laptop Stand,1200
+1249,Mechanical Keyboard,1800
+1086,Mouse Pad,250
+1070,Wireless Keyboard,abc
+1061,Screen Cleaner,200
+1074,Stylus Pen,750
+1183,Monitor,12500
+1020,Monitor,12500
+1208,Mouse,0
+1223,Desk Mat,650
+1062,Keyboard,850
+1161,Portable SSD,7200
+1125,Webcam Cover,100
+1134,Headphones,1800
+1200,Portable SSD,-7200
+1197,Wi-Fi Adapter,-900
+1071,Smart Plug,950
+1164,Desk Lamp,950
+1216,Gaming Mouse,1900
+1064,Stylus Pen,750
+1193,Desk Mat,650
+1067,Mouse Pad,250
+1116,Desk Lamp,950
+1122,Wireless Keyboard,1350
+1221,USB Microphone,2900
+1191,External SSD,6500
+1041,Wireless Mouse,780
+1230,Keyboard,850
+1115,Speakers,2200
+1141,Laptop Battery,3600.99
+1233,Graphics Tablet,4800
+1213,Monitor,12500
+1110,USB Flash Drive,600
+1130,Screen Cleaner,200
+1246,Smart Plug,950
+1185,USB Hub,400
+1209,Gaming Controller,2400
+1157,Card Reader,280
+1114,Webcam,3200.99
+1229,Wireless Charger,1400
+1194,Gaming Mouse,1900
+1244,Ring Light,1700
+1082,Cable Organizer,180
+1153,Webcam,
+1144,Replacement Charger,2100
+1136,Wi-Fi Adapter,900
+1171,Headphones,
+1119,Screen Cleaner,
+1206,Mouse,
+1069,HDMI Cable,350
+1234,External HDD,4200
+1063,Microphone,2500
+1128,USB Flash Drive,600
+1026,,120
+1238,Smart Plug,950
+1091,Webcam Cover,100
+1113,Webcam Cover,100
+1218,Laptop Stand,1200
+1055,USB Cable,150
+
+

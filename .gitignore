@@ -1,0 +1,11 @@
+# Database
+Database.db
+
+# Generated CSV files
+Filtered_data.csv
+Negative_product_prices.csv
+
+# Python cache
+__pycache__/
+.pytest_cache/
+*.pyc
